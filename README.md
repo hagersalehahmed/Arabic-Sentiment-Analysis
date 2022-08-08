@@ -1,6 +1,6 @@
 # Arabic-Sentiment-Analysis
 Arabic Sentiment Analysis using deep learning and machine learning and optimzation methods
-# Arabic Sentiment Analysis
+
 Sentiment analysis was nominated as a hot research topic a decade ago for its increasing importance in analyzing the people's opinions extracted from social media platforms. Although the Arabic language has a significant share of the content shared across social media platforms, its content's sentiment analysis is still limited due to its complex morphological structures and the varieties of dialects.
 
 ## Libraries
